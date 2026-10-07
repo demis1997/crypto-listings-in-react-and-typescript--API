@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local environments and generated artifacts
+node_modules/
+.env
+.env.*
+!.env.example
